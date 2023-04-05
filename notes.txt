@@ -1,0 +1,20 @@
+linked list 
+each node stores entire object/class
+dont touch node class
+typedef Appointment value_type //typedef <existing type> <new name> make new data type 
+    can use to replace scope resolution 
+write waitlist class
+dont need to touch the main 
+Appointment class if object on left is less than object on the right then the one on the left came to the pharm first 
+Appointment.find takes patient name and returns the appt for that name 
+longest wait is the first node 
+write appointmetn defintion 
+add stuff into the list in sorted order 
+move cursor until found a parameter that is less than or greater than and put in the middle 
+assume the load file is in order, use add to end function 
+
+Date d; d.make_today();
+d2.age(d);
+head -> data(); //gives whole appointent, need accessor function to get certian elements
+(head -> data()).get_something();
+
